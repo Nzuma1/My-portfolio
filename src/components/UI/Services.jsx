@@ -22,7 +22,7 @@ const Services = () => {
             <div className="relative text-gray-700 antialiased text-sm font-semibold">
               {/* vertical line */}
               <div
-                className="hidden absolute w-1 sm:block bg-indigo-300 h-full left-1/2
+                className="hidden absolute w-1 sm:block bg-[#0067FF] h-full left-1/2
               transform-translate-x-1/2"
               ></div>
 
