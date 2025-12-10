@@ -1,4 +1,4 @@
-import heroImg from "../../assets/images/hero.svg";
+import heroImg from "../../assets/images/hero-avatar.png";
 import CountUp from "react-countup";
 
 import React from "react";
