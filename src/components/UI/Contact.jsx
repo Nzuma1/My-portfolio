@@ -4,9 +4,14 @@ const Contact = () => {
   return (
     <section id="contact" className="pb-16">
       <div className="container">
-        <h2 className="text-headingColor font-[700] text-[2.5rem] mb-8">
+        <h2 className="text-headingColor font-[700] text-[2.5rem] mb-2">
           Get in touch
         </h2>
+        <div className="mb-8 font-[500] text-[16px] text-smallTextColor">
+            <p className="mb-2"><i class="ri-mail-line drop-shadow-xl text-primaryColor"></i> ezumahezron@gmail.com</p>
+            <p className="mb-2"><i class="ri-phone-line drop-shadow-xl text-primaryColor"></i> +254 745758857</p>
+            <p><i class="ri-map-pin-line drop-shadow-xl text-primaryColor"></i> Nairobi, Kenya</p>
+        </div>
         <div className="md:flex justify-between items-center">
           <div className="w-full md:w-1/2 h-[300px] sm:h-[450px]">
             <iframe
