@@ -16,7 +16,7 @@ const Contact = () => {
           <div className="w-full md:w-1/2 h-[300px] sm:h-[450px]">
             <iframe
               title="google-maps"
-              src="https://maps.google.com/maps?q=Maasai+Lodge+Rongai&t=&z=13&ie=UTF8&iwloc=&output=embed"
+              src="https://maps.app.goo.gl/kH3gGSp8STJDG47M7://maps.google.com/maps?q=Maasai+Lodge+Rongai&t=&z=13&ie=UTF8&iwloc=&output=embed"
               className="border-0 w-full h-full"
               allowFullScreen=""
               loading="lazy"
