@@ -10,13 +10,13 @@ const Contact = () => {
         <div className="mb-8 font-[500] text-[16px] text-smallTextColor">
             <p className="mb-2"><i class="ri-mail-line drop-shadow-xl text-primaryColor"></i> nzumahezron@gmail.com</p>
             <p className="mb-2"><i class="ri-phone-line drop-shadow-xl text-primaryColor"></i> +254 745758857</p>
-            <p><i class="ri-map-pin-line drop-shadow-xl text-primaryColor"></i> Nairobi, Kenya</p>
+            <p><i class="ri-map-pin-line drop-shadow-xl text-primaryColor"></i> Maasai Lodge, Rongai</p>
         </div>
         <div className="md:flex justify-between items-center">
           <div className="w-full md:w-1/2 h-[300px] sm:h-[450px]">
             <iframe
               title="google-maps"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0905887987115!2d36.87063178744261!3d-1.2490199179027885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f15d4b33985a5%3A0x9125e1cf1da97951!2sNaivas%20Ruaraka!5e0!3m2!1ssw!2ske!4v1723641254204!5m2!1ssw!2ske"
+              src="https://maps.google.com/maps?q=Maasai+Lodge+Rongai&t=&z=13&ie=UTF8&iwloc=&output=embed"
               className="border-0 w-full h-full"
               allowFullScreen=""
               loading="lazy"
