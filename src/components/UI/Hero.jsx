@@ -16,7 +16,7 @@ const Hero = () => {
               className="text-headingColor font-[600]
                 text-[16px]"
             >
-              Hello Welcome
+             Welcome
             </h5>
             <h1
               data-aos="fade-up"
@@ -24,7 +24,7 @@ const Hero = () => {
               className="text-headingColor font-[800] text-[1.8rem] sm:text-[40px]"
             >
               I'm Hezron Nzuma <br />
-              IT Support & MERN Stack Developer
+              Web Developer | IT Support
             </h1>
 
             <div
@@ -59,10 +59,7 @@ const Hero = () => {
               <span>
                 <i class="ri-apps-line"></i>
               </span>
-              Highly motivated and results-oriented IT professional with a Bachelor's degree 
-              in Business Information Technology from Multimedia University of Kenya. 
-              Proven ability to manage IT tasks and projects through hands-on internship 
-              and freelance experience, providing client support and ensuring system security.
+              I am a highly motivated and results-driven IT professional with hands-on experience in managing core IT operations and building modern web applications. Through both internship and freelance projects, I have developed a strong ability to support clients, maintain system reliability, and implement secure, scalable solutions. I work with contemporary JavaScript frameworks and follow industry-standard best practices to create efficient, user-focused applications designed for long-term growth.
             </p>
 
             <div className="flex items-center gap-9 mt-14">
