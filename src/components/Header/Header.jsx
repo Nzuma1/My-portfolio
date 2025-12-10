@@ -64,7 +64,8 @@ const Header = () => {
 
             <div className="leading-[20px]">
               <h2 className="text-xl text-smallTextColor font-[700]">Nzuma</h2>
-              
+              <p className="text-smallTextColor text-[14px] font-[500]">
+                P
               </p>
             </div>
           </div>
