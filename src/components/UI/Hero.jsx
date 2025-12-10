@@ -59,21 +59,18 @@ const Hero = () => {
               <span>
                 <i class="ri-apps-line"></i>
               </span>
-              I am a highly motivated and results-driven IT professional with hands-on experience in managing core IT operations and building modern web applications. Through both internship and freelance projects, I have developed a strong ability to support clients, maintain system reliability, and implement secure, scalable solutions. I work with contemporary JavaScript frameworks and follow industry-standard best practices to create efficient, user-focused applications designed for long-term growth.
+              Highly motivated and results-oriented IT professional with proven ability to manage diverse 
+              IT tasks and deliver robust web app projects. Experienced in both internship and 
+              freelance environments, providing reliable client support while ensuring system availability, 
+              performance, and security. Skilled in using modern JavaScript frameworks and adhering to 
+              industry best practices to build scalable, maintainable, and efficient solutions.
             </p>
 
             <div className="flex items-center gap-9 mt-14">
               <span className="text-smallTextColor text-[15px] font-[600]">
                 Follow me
               </span>
-              <span>
-                <a
-                  href="#youtube"
-                  className="text-smallTextColor text-[18px] font-[600]"
-                >
-                  <i class="ri-youtube-line"></i>
-                </a>
-              </span>
+          
               <span>
                 <a
                   href="https://x.com/killerman_jaro"
