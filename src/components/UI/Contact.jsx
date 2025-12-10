@@ -8,7 +8,7 @@ const Contact = () => {
           Get in touch
         </h2>
         <div className="mb-8 font-[500] text-[16px] text-smallTextColor">
-            <p className="mb-2"><i class="ri-mail-line drop-shadow-xl text-primaryColor"></i> ezumahezron@gmail.com</p>
+            <p className="mb-2"><i class="ri-mail-line drop-shadow-xl text-primaryColor"></i> nzumahezron@gmail.com</p>
             <p className="mb-2"><i class="ri-phone-line drop-shadow-xl text-primaryColor"></i> +254 745758857</p>
             <p><i class="ri-map-pin-line drop-shadow-xl text-primaryColor"></i> Nairobi, Kenya</p>
         </div>
