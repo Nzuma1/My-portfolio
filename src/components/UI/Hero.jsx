@@ -70,7 +70,6 @@ const Hero = () => {
               <span className="text-smallTextColor text-[15px] font-[600]">
                 Follow me
               </span>
-          
               <span>
                 <a
                   href="https://x.com/killerman_jaro"
