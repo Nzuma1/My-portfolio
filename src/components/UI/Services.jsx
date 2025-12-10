@@ -12,7 +12,7 @@ const Services = () => {
             What I do
           </h2>
           <p className="lg:max-w-[600px] lg:mx-auto text-headingColor font-[500] text-[16px] leading-7">
-            I am a versatile IT professional with expertise in full-stack web development using the MERN stack, 
+            I am a versatile IT professional with expertise in full-stack web development using the JS Frameworks, 
             alongside strong capabilities in IT support, network administration, and system security.
           </p>
         </div>
@@ -49,7 +49,7 @@ const Services = () => {
                         group-hover:font-[500]"
                         >
                           Building responsive and interactive user interfaces using React.js, Next.js, 
-                          Tailwind CSS, and TypeScript. Focused on creating user-friendly web applications.
+                          Tailwind CSS, and TypeScript. Focused on creating user-friendly, responsive, and scalable web applications.
                         </p>
                       </div>
                     </div>
