@@ -23,8 +23,8 @@ const Hero = () => {
               data-aos-duration="1500"
               className="text-headingColor font-[800] text-[1.8rem] sm:text-[40px]"
             >
-              I'm Isadia Nzuma <br />
-              Software Developer
+              I'm Hezron Nzuma <br />
+              IT Support & MERN Stack Developer
             </h1>
 
             <div
@@ -59,10 +59,10 @@ const Hero = () => {
               <span>
                 <i class="ri-apps-line"></i>
               </span>
-              Lorem ipsum odor amet, consectetuer adipiscing elit. Sociosqu
-              senectus turpis cursus nullam finibus magna felis. Fermentum
-              libero velit eros quisque taciti habitant; in egestas. Ut
-              scelerisque turpis fusce sapien dapibus neque lectus
+              Highly motivated and results-oriented IT professional with a Bachelor's degree 
+              in Business Information Technology from Multimedia University of Kenya. 
+              Proven ability to manage IT tasks and projects through hands-on internship 
+              and freelance experience, providing client support and ensuring system security.
             </p>
 
             <div className="flex items-center gap-9 mt-14">
@@ -118,7 +118,7 @@ const Hero = () => {
           >
             <div className="mb-10">
               <h2 className="text-headingColor font-[700] text-[32px]">
-                <CountUp start={0} end={13} duration={3} suffix="+" />
+                <CountUp start={0} end={19} duration={3} suffix="+" />
               </h2>
               <h4 className="text-headingColor font-[600] text-[18px]">
                 Months of Experience
@@ -126,7 +126,7 @@ const Hero = () => {
             </div>
             <div className="mb-10">
               <h2 className="text-headingColor font-[700] text-[32px]">
-                <CountUp start={0} end={6} duration={2} suffix="+" />
+                <CountUp start={0} end={5} duration={2} suffix="+" />
               </h2>
               <h4 className="text-headingColor font-[600] text-[18px]">
                 Projects

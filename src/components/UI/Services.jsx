@@ -12,10 +12,8 @@ const Services = () => {
             What I do
           </h2>
           <p className="lg:max-w-[600px] lg:mx-auto text-headingColor font-[500] text-[16px] leading-7">
-            Lorem ipsum odor amet, consectetuer adipiscing elit. Sociosqu
-            senectus turpis cursus nullam finibus magna felis. Fermentum libero
-            velit eros quisque taciti habitant; in egestas. Ut scelerisque
-            turpis fusce sapien dapibus neque lectus
+            I am a versatile IT professional with expertise in full-stack web development using the MERN stack, 
+            alongside strong capabilities in IT support, network administration, and system security.
           </p>
         </div>
 
@@ -50,9 +48,8 @@ const Services = () => {
                           className="text-[15px] text-smallTextColor group-hover:text-white
                         group-hover:font-[500]"
                         >
-                          Lorem ipsum odor amet, consectetuer adipiscing elit.
-                          Sociosqu senectus turpis cursus nullam finibus magna
-                          felis. Fermentum libero
+                          Building responsive and interactive user interfaces using React.js, Next.js, 
+                          Tailwind CSS, and TypeScript. Focused on creating user-friendly web applications.
                         </p>
                       </div>
                     </div>
@@ -93,9 +90,8 @@ const Services = () => {
                           className="text-[15px] text-smallTextColor group-hover:text-white
                         group-hover:font-[500]"
                         >
-                          Lorem ipsum odor amet, consectetuer adipiscing elit.
-                          Sociosqu senectus turpis cursus nullam finibus magna
-                          felis. Fermentum libero
+                          Robust server-side development with Node.js, Express.js, MongoDB, and PostgreSQL. 
+                          Experience in creating REST APIs and secure authentication systems.
                         </p>
                       </div>
                     </div>
@@ -129,16 +125,15 @@ const Services = () => {
                           className="text-primaryColor font-[700] mb-3 group-hover:text-white
                         group-hover:font-[600] text-xl"
                         >
-                          UX/UI Design
+                          IT Support
                         </h3>
 
                         <p
                           className="text-[15px] text-smallTextColor group-hover:text-white
                         group-hover:font-[500]"
                         >
-                          Lorem ipsum odor amet, consectetuer adipiscing elit.
-                          Sociosqu senectus turpis cursus nullam finibus magna
-                          felis. Fermentum libero
+                          Providing onsite and remote IT support, system troubleshooting, and hardware maintenance. 
+                          Experienced with SAP, Freshworks, and Cisco Meraki.
                         </p>
                       </div>
                     </div>
@@ -172,16 +167,15 @@ const Services = () => {
                           className="text-primaryColor font-[700] mb-3 group-hover:text-white
                         group-hover:font-[600] text-xl"
                         >
-                          App Development
+                          Network & Security
                         </h3>
 
                         <p
                           className="text-[15px] text-smallTextColor group-hover:text-white
                         group-hover:font-[500]"
                         >
-                          Lorem ipsum odor amet, consectetuer adipiscing elit.
-                          Sociosqu senectus turpis cursus nullam finibus magna
-                          felis. Fermentum libero
+                          Network administration, system updates, and backups using Cove-Backup and Synology C2. 
+                          Ensuring system security with tools like BitDefender.
                         </p>
                       </div>
                     </div>
