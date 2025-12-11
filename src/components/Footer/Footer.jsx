@@ -24,8 +24,9 @@ const Footer = () => {
 
           <div className="w-full sm:w-1/2">
             <p className="text-gray-300 leading-7 mt-4 sm:mt-0">
-              I am an IT Support & MERN Stack Developer passionate about creating innovative web solutions 
-              and ensuring robust system performance. Let's work together to bring your ideas to life.
+              I am an IT Support & MERN Stack Developer passionate about
+              creating innovative web solutions and ensuring robust system
+              performance. Let's work together to bring your ideas to life.
             </p>
 
             <div className="flex items-center gap-4 flex-wrap md:gap-8 mt-10">
@@ -38,18 +39,20 @@ const Footer = () => {
                   <i class="ri-twitter-x-line"></i>
                 </a>
               </span>
+
               <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center">
-                <a href="#x" className="text-gray-300 font-[500] text-[18px]">
-                  <i class="ri-youtube-line"></i>
-                </a>
-              </span>
-              <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center">
-                <a href="https://github.com/Nzuma1" className="text-gray-300 font-[500] text-[18px]">
+                <a
+                  href="https://github.com/Nzuma1"
+                  className="text-gray-300 font-[500] text-[18px]"
+                >
                   <i class="ri-github-fill"></i>
                 </a>
               </span>
               <span className="w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center">
-                <a href="https://www.linkedin.com/in/isadianzuma/" className="text-gray-300 font-[500] text-[18px]">
+                <a
+                  href="https://www.linkedin.com/in/isadianzuma/"
+                  className="text-gray-300 font-[500] text-[18px]"
+                >
                   <i class="ri-linkedin-box-fill"></i>
                 </a>
               </span>
