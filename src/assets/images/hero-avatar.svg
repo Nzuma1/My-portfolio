@@ -36,8 +36,8 @@
   <!-- IMAGE AREA -->
   <rect
     y="70"
-    width="343"
-    height="430"
+    width="200"
+    height="300"
     rx="171.5"
     fill="url(#pattern0)"
   />
