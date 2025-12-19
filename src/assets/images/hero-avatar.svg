@@ -1,9 +1,0 @@
-<svg width="343" height="500" viewBox="0 0 343 500" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="343" height="500" rx="171.5" fill="#0067FF"/>
-<rect y="70" width="343" height="430" rx="171.5" fill="url(#pattern0)"/>
-<defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<image href="hero-avatar.png" width="1" height="1" preserveAspectRatio="xMidYMid slice"/>
-</pattern>
-</defs>
-</svg>
